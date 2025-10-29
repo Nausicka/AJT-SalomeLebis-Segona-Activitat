@@ -1,0 +1,19 @@
+Exercici 1. 2/2
+        
+Exercici 2. 2/2
+  
+Exercici 3. 1.5/2
+- Havia de ser un únic diccionari "alumne" amb tota la informació (n'has fet 2)
+- La coma del final (un cop tanques el diccionari), et fa que el python interpreti la variable alumne com una cosa que es diu tupla. Has d'anar amb compte amb aquestes "," 
+  alumne={
+    "nom":["Salome","Le Bis","Diez"],
+    "curs": "1r Batx",
+    },
+
+Exercici 4. 2/2
+
+Jupyter: 1/1
+- Si hi ha algun càlcul o tros de codi que sobra, millor eliminar-lo i no posar-lo en la entrega!
+Github: 1/1
+
+Nota final: 9.5/10
